@@ -1,0 +1,23 @@
+.Header {
+	height: 50px;
+	width:  100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	background-color: turquoise;
+	font-size: 30px;
+	color: #282C34;
+	margin:0 auto;
+}
+
+.Button {
+	height: 50px;
+	width: 10%;
+	float: left;
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 30px;
+	color: #282C34;
+	background: turquoise;
+}

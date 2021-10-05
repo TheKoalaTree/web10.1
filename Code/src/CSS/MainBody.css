@@ -1,0 +1,71 @@
+.left{
+	float: left;
+	width:  20%;
+	height: 965px;
+	font-size: 30px;
+	color: #282C34;
+	text-align: center;
+	background-color: aquamarine;
+}
+
+.column p{
+	margin: 5px 5px;
+}
+
+.column h5{
+	margin: 5px 5px;
+}
+
+.column img{
+	margin-top: 20px;
+}
+
+.Main{
+	width: 30%;
+	float: left;
+  	text-align: left;
+	margin-top: 2%;
+  	margin-left: 13%;
+}
+
+.Main input {
+	margin: 5px 5px;
+}
+
+.new_task {
+	display: inline;
+}
+
+#task_title {
+	margin-left: 40px;
+	width: 300px;
+	height: 20px;
+}
+
+#task_desc {
+	margin-left: 20px;
+	width: 300px;
+	height: 60px;
+}
+
+#suburb {
+	margin-left: 50px;
+	width: 300px;
+	height: 20px;
+}
+
+#suburb_date {
+	margin-left: 67px;
+	width: 300px;
+	height: 20px;
+}
+
+.right{
+	float: right;
+	width:  20%;
+	height: 965px;
+	font-size: 30px;
+	color: #282C34;
+	text-align: center;
+	background-color: aquamarine;
+}
